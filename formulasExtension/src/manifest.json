@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Formula Sheets",
+  "version": "1.0",
+  "description": "NSW NESA formula sheets",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "256": "Logo256.png"
+  }
+}
